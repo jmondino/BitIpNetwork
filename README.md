@@ -1,4 +1,4 @@
-# FIRST  
+# Prerequisites  
 
 Run `make` to compile, you should now have : dtobx, fnlip, ipv4tob and nmfinder.  
 
